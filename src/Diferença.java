@@ -1,8 +1,8 @@
 
-import java.util.Scanner;
+import java.util.Scanner; // Importa a classe Scanner para leitura de entrada do usuário
 
-public class Diferença {
-    public static void main(String[] args) {
+public class Diferença { // Declaração da classe principal
+    public static void main(String[] args) { // Método principal, ponto de entrada do programa
 
         // Lê quatro valores inteiros chamados A, B, C e D. Calcula e imprime a diferença do produto de A e B pelo produto de C e D (A * B - C * D).
         
